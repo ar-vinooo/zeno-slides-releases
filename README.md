@@ -6,6 +6,10 @@ ZenoSlides adalah aplikasi desktop untuk membuat, menyunting, dan menyajikan sli
 
 **[Unduh ZenoSlides](https://github.com/ar-vinooo/zeno-slides-releases/releases/latest)** · [Lihat semua rilis](https://github.com/ar-vinooo/zeno-slides-releases/releases)
 
+![Editor ZenoSlides menampilkan daftar slide, kanvas, dan percakapan AI](images/zenoslides-editor.png)
+
+*Buat dan sunting presentasi sambil berdiskusi dengan AI di satu workspace.*
+
 ## Apa yang bisa kamu lakukan?
 
 - **Buat dan ubah slide lewat percakapan.** Minta AI menyusun slide, memperbaiki isi, atau mengubah tampilannya. Sertakan gambar referensi untuk membantu menjelaskan gaya yang kamu inginkan.
@@ -59,6 +63,10 @@ Akses dan biaya AI mengikuti akun atau penyedia yang digunakan; penggunaan API d
 | **ZenoSlides Present (`.zsp`)** | Bawa presentasi beserta animasi dan resource offline untuk diputar di aplikasi ZenoSlides Present. |
 
 ZenoSlides Present adalah player terpisah untuk memutar `.zsp`, tanpa editor atau fitur AI. Cari installer yang diawali `ZenoSlides-Present` pada halaman rilis jika tersedia untuk perangkatmu.
+
+![ZenoSlides Present memutar slide dalam player](images/zenoslides-present.png)
+
+*ZenoSlides Present memutar presentasi .zsp beserta animasinya.*
 
 ## Pembaruan dan bantuan
 
