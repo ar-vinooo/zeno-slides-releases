@@ -1,10 +1,19 @@
-# ZenoSlides
+<p align="center">
+  <img src="images/zenoslides-logo.png" alt="Logo ZenoSlides" width="120">
+</p>
 
-**Dari ide menjadi presentasi, bersama AI dan tetap dalam kendalimu.**
+<h1 align="center">ZenoSlides</h1>
+
+<p align="center"><strong>Dari ide menjadi presentasi, bersama AI dan tetap dalam kendalimu.</strong></p>
+
+<p align="center">
+  <a href="https://github.com/ar-vinooo/zeno-slides-releases/releases/latest"><strong>Unduh aplikasi</strong></a> ·
+  <a href="#mulai-membuat-presentasi">Mulai</a> ·
+  <a href="#pilih-format-hasil">Format ekspor</a> ·
+  <a href="https://github.com/ar-vinooo/zeno-slides-releases/releases">Catatan rilis</a>
+</p>
 
 ZenoSlides adalah aplikasi desktop untuk membuat, menyunting, dan menyajikan slide berbasis HTML. Ceritakan idemu kepada AI, lihat hasilnya langsung di kanvas, lalu sempurnakan teks dan desain sesuai kebutuhan. Cocok untuk menyiapkan presentasi produk, materi belajar, laporan, atau cerita visual tanpa harus memulai dari slide kosong.
-
-**[Unduh ZenoSlides](https://github.com/ar-vinooo/zeno-slides-releases/releases/latest)** · [Lihat semua rilis](https://github.com/ar-vinooo/zeno-slides-releases/releases)
 
 ![Editor ZenoSlides menampilkan daftar slide, kanvas, dan percakapan AI](images/zenoslides-editor.png)
 
