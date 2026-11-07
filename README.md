@@ -10,7 +10,8 @@
   <a href="https://github.com/ar-vinooo/zeno-slides-releases/releases/latest"><strong>Unduh aplikasi</strong></a> ·
   <a href="#mulai-membuat-presentasi">Mulai</a> ·
   <a href="#pilih-format-hasil">Format ekspor</a> ·
-  <a href="https://github.com/ar-vinooo/zeno-slides-releases/releases">Catatan rilis</a>
+  <a href="https://github.com/ar-vinooo/zeno-slides-releases/releases">Catatan rilis</a> ·
+  <a href="https://saweria.co/Arvinooo">Dukung ☕</a>
 </p>
 
 ZenoSlides adalah aplikasi desktop untuk membuat, menyunting, dan menyajikan slide berbasis HTML. Ceritakan idemu kepada AI, lihat hasilnya langsung di kanvas, lalu sempurnakan teks dan desain sesuai kebutuhan. Cocok untuk menyiapkan presentasi produk, materi belajar, laporan, atau cerita visual tanpa harus memulai dari slide kosong.
