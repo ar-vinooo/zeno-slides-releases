@@ -77,6 +77,10 @@ ZenoSlides Present adalah player terpisah untuk memutar `.zsp`, tanpa editor ata
 
 *ZenoSlides Present memutar presentasi .zsp beserta animasinya.*
 
+## Dukung ZenoSlides
+
+Jika ZenoSlides membantumu, kamu bisa mendukung pengembangannya melalui [Saweria](https://saweria.co/Arvinooo). Terima kasih atas dukunganmu!
+
 ## Pembaruan dan bantuan
 
 Di Windows, aplikasi dapat memeriksa dan mengunduh pembaruan; pemasangan dimulai setelah kamu memilih untuk memulai ulang. Di macOS, unduh versi terbaru secara manual dari halaman rilis. Kontrol pembaruan tersedia melalui **Help → Tentang ZenoSlides** pada versi terbaru.
