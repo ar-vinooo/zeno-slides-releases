@@ -11,7 +11,7 @@
   <a href="#mulai-membuat-presentasi">🚀 Mulai</a> ·
   <a href="#pilih-format-hasil">📤 Format ekspor</a> ·
   <a href="https://github.com/ar-vinooo/zeno-slides-releases/releases">📝 Catatan rilis</a> ·
-  <a href="https://saweria.co/Arvinooo">☕ Dukung</a>
+  <a href="https://saweria.co/Arvinooo">☕ Buy me a coffee</a>
 </p>
 
 ZenoSlides adalah aplikasi desktop untuk membuat, menyunting, dan menyajikan slide berbasis HTML. Ceritakan idemu kepada AI, lihat hasilnya langsung di kanvas, lalu sempurnakan teks dan desain sesuai kebutuhan. Cocok untuk menyiapkan presentasi produk, materi belajar, laporan, atau cerita visual tanpa harus memulai dari slide kosong.
@@ -20,13 +20,30 @@ ZenoSlides adalah aplikasi desktop untuk membuat, menyunting, dan menyajikan sli
 
 *Buat dan sunting presentasi sambil berdiskusi dengan AI di satu workspace.*
 
+## Eksplorasi Desain & Tampilan Grid Slide
+
+Minta AI merancang berbagai gaya visual sekaligus—atau pilih dari **20+ palet warna flat kurasi desainer** maupun mode **Kreasi AI (Bebas)**. Gunakan **Tampilan Grid Slide** (`Ctrl+Shift+G`) untuk melihat keseluruhan deck, memilih banyak slide sekaligus, menyembunyikan slide cadangan, dan mengatur urutan dengan cepat.
+
+![Contoh 40 cover slide dengan berbagai gaya desain yang dibuat AI di Tampilan Grid Slide](images/zenoslides-grid-covers.jpg)
+
+*Contoh hasil ketika meminta AI membuat 40 eksplorasi cover slide dengan beragam gaya tipografi dan ilustrasi di Tampilan Grid Slide.*
+
+## Animasi Slide & Visual SVG Interaktif
+
+Setiap slide mendukung diagram `<svg>` kustom yang tajam di semua ukuran layar serta animasi masuk maupun animasi bertahap per klik (`data-step`) saat dipresentasikan.
+
+![Contoh animasi slide interaktif di ZenoSlides](images/zenoslides-animation.gif)
+
+*Contoh animasi slide dan diagram visual yang dirancang oleh AI di ZenoSlides.*
+
 ## Apa yang bisa kamu lakukan?
 
 - **Buat dan ubah slide lewat percakapan.** Minta AI menyusun slide, memperbaiki isi, atau mengubah tampilannya. Sertakan gambar referensi untuk membantu menjelaskan gaya yang kamu inginkan.
-- **Sunting dengan caramu.** Ubah teks langsung di kanvas, atur urutan slide, atau edit HTML dan CSS untuk kontrol lebih lanjut. Perubahan AI dan edit manual dapat di-undo.
-- **Gunakan bahan yang sudah ada.** Tambahkan gambar dan dokumen sebagai aset proyek untuk digunakan atau dibaca oleh AI.
-- **Presentasikan dengan lebih hidup.** Putar slide dalam layar penuh dengan transisi, animasi, dan elemen yang muncul bertahap saat diklik.
-- **Simpan pekerjaan dalam satu proyek.** File `.zsw` menyimpan slide, aset, percakapan, dan riwayat versi agar bisa dibuka kembali di ZenoSlides.
+- **20+ palet warna desainer & kreasi bebas AI.** Pilih palet warna flat terkurasi (Flexoki, Nord, Catppuccin, Rosé Pine, Bauhaus, dan lainnya) atau biarkan AI menentukan identitas visual dan ilustrasi SVG yang paling pas dengan topikmu.
+- **Sunting dengan caramu.** Ubah teks langsung di kanvas, atur puluhan slide lewat tampilan grid, atau edit HTML dan CSS untuk kontrol penuh. Perubahan AI dan edit manual dapat di-undo.
+- **Gunakan bahan yang sudah ada.** Tambahkan gambar dan dokumen (PPTX, DOCX, XLSX, teks) sebagai aset proyek untuk digunakan atau dibaca oleh AI.
+- **Presentasikan dengan layar presenter lengkap.** Putar slide dalam layar penuh dengan animasi per langkah klik, tampilan presenter di layar kedua (preview klik berikutnya, catatan pembicara, timer), *laser pointer* (`L`), *pena coretan* (`D`), dan *layar putih* (`W`).
+- **Simpan pekerjaan dalam satu proyek.** File `.zsw` menyimpan slide, aset, dan riwayat versi agar mudah dibuka kembali di ZenoSlides.
 - **Bagikan dalam format yang sesuai.** Ekspor ke PDF, PowerPoint, PNG, atau `.zsp` untuk diputar dengan ZenoSlides Present.
 
 ## Unduh dan pasang
@@ -57,7 +74,7 @@ Panduan awal dapat dibuka kembali melalui **Help → Memulai**.
 
 Pilih salah satu penyedia di **Pengaturan → Agent AI**:
 
-- **OpenAI atau Claude dengan API key** — masukkan kunci API milikmu dan tes koneksi di aplikasi.
+- **OpenAI, Claude, atau Google Gemini dengan API key** — masukkan kunci API milikmu (OpenAI Platform, Anthropic Console, atau Google AI Studio) dan tes koneksi di aplikasi.
 - **Codex CLI atau Claude CLI** — pasang dan login ke CLI pilihanmu terlebih dahulu, lalu hubungkan dari aplikasi.
 
 Akses dan biaya AI mengikuti akun atau penyedia yang digunakan; penggunaan API dapat dikenai biaya sesuai pemakaian. Kunci API disimpan melalui penyimpanan aman sistem operasi dan tidak dimasukkan ke file proyek. Koneksi internet diperlukan untuk AI dan resource slide yang dimuat dari internet. Penyuntingan teks langsung dapat digunakan tanpa AI.
