@@ -28,6 +28,14 @@ Minta AI merancang berbagai gaya visual sekaligus—atau pilih dari **20+ palet 
 
 *Contoh hasil ketika meminta AI membuat 40 eksplorasi cover slide dengan beragam gaya tipografi dan ilustrasi di Tampilan Grid Slide.*
 
+## Desain Berstruktur & Layout Bento Grid
+
+Rancang slide dengan tata letak informasi yang kaya dan terstruktur rapi—mulai dari gaya bento grid, neo-brutalism, ringkasan divisi, hingga infografis internal yang menarik.
+
+![Contoh slide bento grid AI Assistant yang dirancang dengan ZenoSlides](images/sample-slide-design.jpg)
+
+*Contoh slide infografis internal bergaya bento grid dan neo-brutalism yang dirancang bersama AI di ZenoSlides.*
+
 ## Animasi Slide & Visual SVG Interaktif
 
 Setiap slide mendukung diagram `<svg>` kustom yang tajam di semua ukuran layar serta animasi masuk maupun animasi bertahap per klik (`data-step`) saat dipresentasikan.
